@@ -1,0 +1,21 @@
+{
+  "home": "Home",
+  "profile": "Profile",
+  "settings": "Settings",
+
+  "app_settings": "App Settings",
+  "preferences": "Preferences",
+  "language": "Language",
+
+  "daily_reminder": "Daily Reminder",
+  "dark_mode": "Dark Mode",
+  "study_reminder": "Study Reminder",
+  "sync_data": "Sync Data",
+
+  "other": "Other",
+  "terms": "Terms & Conditions",
+  "privacy": "Privacy Policy",
+
+  "current_mode": "Current Mode: {}",
+  "current_language": "Language: {}"
+}

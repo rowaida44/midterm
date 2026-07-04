@@ -1,0 +1,21 @@
+{
+  "home": "الرئيسية",
+  "profile": "الملف الشخصي",
+  "settings": "الإعدادات",
+
+  "app_settings": "إعدادات التطبيق",
+  "preferences": "التفضيلات",
+  "language": "اللغة",
+
+  "daily_reminder": "التذكير اليومي",
+  "dark_mode": "الوضع الليلي",
+  "study_reminder": "تذكير الدراسة",
+  "sync_data": "مزامنة البيانات",
+
+  "other": "أخرى",
+  "terms": "الشروط والأحكام",
+  "privacy": "سياسة الخصوصية",
+
+  "current_mode": "الوضع الحالي: {}",
+  "current_language": "اللغة: {}"
+}
